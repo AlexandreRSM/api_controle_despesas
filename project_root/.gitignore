@@ -1,0 +1,12 @@
+# Arquivos de ambiente
+.env
+*.env
+secure.env
+
+
+# Pastas do Python
+__pycache__/
+venv/
+
+# Arquivos de banco local
+*.db
